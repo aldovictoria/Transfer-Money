@@ -1,0 +1,17 @@
+[{
+        "NumeroCuenta": 12345,
+        "cantidad": 9999.4
+    },
+    {
+        "NumeroCuenta": 12347,
+        "cantidad": 2000
+    },
+    {
+        "NumeroCuenta": 12346,
+        "cantidad": 3000
+    },
+    {
+        "NumeroCuenta": 12348,
+        "cantidad": 2000
+    }
+]
